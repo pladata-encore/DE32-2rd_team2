@@ -9,7 +9,20 @@
 - ![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-006400?style=flat&logo=apache-zeppelin&logoColor=white) 메시지 로그 데이터 분석 및 시각화
 
 ## ◆ Requirements
+- https://github.com/pladata-encore/DE32-2rd_team2/edit/main/requirements.md
 
+![image](https://github.com/user-attachments/assets/f2e25a30-a9a4-4a2a-8546-46dfdae539d9)
+
+## ◆ Project Workflow
+![image](https://github.com/user-attachments/assets/ca7c580c-f99d-41e7-a83a-a61f5ada9f02)
+
+- 업무 대화 기능
+- 업무 대화 감사 기능
+- 챗봇 기능 (영화)
+- 챗봇 기능 (시스템)
+- 챗봇 기능 (일정)
+
+## ◆ Milestones
 
 ## ◆ Usage
 ※ 본 항목에서 `<MY_REPOSITORY_PATH>`는 해당 레포지토리를 클론한 경로를 뜻합니다.
