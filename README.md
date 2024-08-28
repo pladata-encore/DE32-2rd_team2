@@ -22,7 +22,7 @@
 | 업무 대화 감사 기능 | 장규석  | Geometry Manager |
 | 챗봇 기능 (영화)  | 오지현  | Tech leader  |
 | 챗봇 기능 (시스템) |  오지현  | Tech leader  |
-| 챗봇 기능 (일정) | 배주영  |  project manager	  |
+| 챗봇 기능 (일정) | 배주영  |  Project manager	  |
 
 
 ## ◆ Requirements
