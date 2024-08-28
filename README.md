@@ -2,6 +2,12 @@
 ## ◆ Introduction
 팀프로젝트2를 위해 `DoubleChat-Samdul` 조가 개발한 Kafka 서버를 경유하는 채팅 어플리케이션입니다.
 
+## ◆ Team Repository
+### Chat
+- https://github.com/DoubleChat-Samdul/chat
+### Dags
+- https://github.com/DoubleChat-Samdul/dags
+
 ## ◆ Stacks
 - ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white) 채팅 기능 구현을 위한 실시간 메시지 스트리밍
 - ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=flat&logo=apache-airflow&logoColor=white) 메시지 로그 데이터 파이프라인 구성 및 챗봇 기능
@@ -13,9 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/f2e25a30-a9a4-4a2a-8546-46dfdae539d9)
 
-## ◆ Project Workflow
-![image](https://github.com/user-attachments/assets/ca7c580c-f99d-41e7-a83a-a61f5ada9f02)
-
+## ◆ Roles and Responsibilities
 | 기능  |  담당  | 역할  |
 |:-:|:-:|:-:|
 | 업무 대화 기능  | 정세현  | Agile Coach	 |
@@ -25,6 +29,16 @@
 | 챗봇 기능 (일정) | 배주영  |  project manager	  |
 
 ## ◆ Milestones
+### Chat Repository
+  ![image](https://github.com/user-attachments/assets/b4b962dc-47d4-4b3e-a0e4-1e946645853e)
+  ![image](https://github.com/user-attachments/assets/5e7972b2-ba1e-4c5a-830f-5c335745b562)
+  ![image](https://github.com/user-attachments/assets/45e9b441-7b41-4fe0-b092-401e87f9b9fb)
+
+### Dags Repository
+  ![image](https://github.com/user-attachments/assets/32baa57c-a199-4d10-a7a1-93ee4548d9be)
+  ![image](https://github.com/user-attachments/assets/aa59d2e0-8936-4b06-8109-9a14b604ab9e)
+  ![image](https://github.com/user-attachments/assets/54503020-2d73-453d-89ea-b5e163337c66)
+
 
 ## ◆ Usage
 ※ 본 항목에서 `<MY_REPOSITORY_PATH>`는 해당 레포지토리를 클론한 경로를 뜻합니다.
