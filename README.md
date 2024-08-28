@@ -8,6 +8,8 @@
 - ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) 대규모 데이터의 빠른 분산 처리 및 분석
 - ![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-006400?style=flat&logo=apache-zeppelin&logoColor=white) 메시지 로그 데이터 분석 및 시각화
 
+## ◆ Requirements
+
 
 ## ◆ Usage
 ※ 본 항목에서 `<MY_REPOSITORY_PATH>`는 해당 레포지토리를 클론한 경로를 뜻합니다.
