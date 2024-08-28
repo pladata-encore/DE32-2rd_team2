@@ -16,11 +16,13 @@
 ## ◆ Project Workflow
 ![image](https://github.com/user-attachments/assets/ca7c580c-f99d-41e7-a83a-a61f5ada9f02)
 
-- 업무 대화 기능
-- 업무 대화 감사 기능
-- 챗봇 기능 (영화)
-- 챗봇 기능 (시스템)
-- 챗봇 기능 (일정)
+| 기능  |  담당  | 역할  |
+|:-:|:-:|:-:|
+| 업무 대화 기능  | 정세현  | Agile Coach	 |
+| 업무 대화 감사 기능 | 장규석  | Geometry Manager |
+| 챗봇 기능 (영화)  | 오지현  | Tech leader  |
+| 챗봇 기능 (시스템) |  오지현  | Tech leader  |
+| 챗봇 기능 (일정) | 배주영  |  project manager	  |
 
 ## ◆ Milestones
 
