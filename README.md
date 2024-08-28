@@ -3,10 +3,10 @@
 팀프로젝트2를 위해 `DoubleChat-Samdul` 조가 개발한 Kafka 서버를 경유하는 채팅 어플리케이션입니다.
 
 ## ◆ Stacks
-- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white): 실시간 데이터
-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white): 
-- ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=flat&logo=apache-airflow&logoColor=white): 
-- ![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-006400?style=flat&logo=apache-zeppelin&logoColor=white): 
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat&logo=apache-kafka&logoColor=white) 채팅 기능 구현을 위한 실시간 메시지 스트리밍
+- ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017E9A?style=flat&logo=apache-airflow&logoColor=white) 메시지 로그 데이터 파이프라인 구성 및 챗봇 기능
+- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) 대규모 데이터의 빠른 분산 처리 및 분석
+- ![Apache Zeppelin](https://img.shields.io/badge/Apache%20Zeppelin-006400?style=flat&logo=apache-zeppelin&logoColor=white) 메시지 로그 데이터 분석 및 시각화
 
 
 ## ◆ Usage
